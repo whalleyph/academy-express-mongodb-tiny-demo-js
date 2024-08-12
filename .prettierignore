@@ -1,0 +1,16 @@
+# Ignore artifacts:
+build
+coverage
+dist
+
+yarn.lock
+
+**/*.log
+
+**/*.postman.json
+**/*.postman_collection.json
+
+# (Example) Tell prettier to ignore all HTML files:
+# **/*.html
+
+# version control and node_modules are ignored by default
